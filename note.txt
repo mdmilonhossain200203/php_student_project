@@ -1,0 +1,14 @@
+php:
+corese crud
+nameing change
+php validation
+update validation
+dublicate mail registration stop
+make roll number
+
+
+laravel:
+basic, validation, Observers
+
+
+https://www.phptutorial.net/php-tutorial/php-form-validation/
